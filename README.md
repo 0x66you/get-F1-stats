@@ -1,2 +1,3 @@
-# get-F1-stats
-GUI for F1 stats between 1950 to 2021
+<h2>一級方程式 積分分析</h2>
+<h3>Python 爬蟲、視覺化、視窗化 整合專題</h3>
+<p>使用模組：</p>
