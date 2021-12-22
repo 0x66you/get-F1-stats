@@ -225,5 +225,3 @@ btn2 = tkinter.Button(window,text="Delete",command=clear_label_image).grid(row=r
 btn3 = tkinter.Button(window,text="Close",command=exit).grid(row=row+1,column=4)
 
 window.mainloop()
-
-# 變執行檔
