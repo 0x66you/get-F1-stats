@@ -12,4 +12,8 @@
 |`5視覺化`|matplotlib.pyplot| 產生 "chart.png" 圖檔
 |`6視窗化`|tkinter| 
 
-點選 Search 按鈕，將執行 1~5
+|按鈕|功能說明|
+|---|---|
+|`Search`|執行上表步驟1~5<br>自動刪除".csv"與".db"檔案|
+|`Delete`|刪除右側目前圖表|
+|`Close`|關閉視窗<br>自動刪除"chart.png"圖檔|
